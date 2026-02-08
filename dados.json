@@ -1,0 +1,107 @@
+[
+  {
+    "nome": "Rex",
+    "especie": "cachorro",
+    "idade": 5,
+    "peso": 20,
+    "energia": 80
+  },
+  {
+    "nome": "Mimi",
+    "especie": "gato",
+    "idade": 3,
+    "peso": 4,
+    "energia": 60
+  },
+  {
+    "nome": "Thor",
+    "especie": "cachorro",
+    "idade": 8,
+    "peso": 25,
+    "energia": 90
+  },
+  {
+    "nome": "Lola",
+    "especie": "coelho",
+    "idade": 2,
+    "peso": 2,
+    "energia": 50
+  },
+  {
+    "nome": "Bidu",
+    "especie": "cachorro",
+    "idade": 10,
+    "peso": 18,
+    "energia": 70
+  },
+  {
+    "nome": "Mel",
+    "especie": "gato",
+    "idade": 6,
+    "peso": 5,
+    "energia": 65
+  },
+  {
+    "nome": "Bob",
+    "especie": "cachorro",
+    "idade": 4,
+    "peso": 22,
+    "energia": 85
+  },
+  {
+    "nome": "Nina",
+    "especie": "gato",
+    "idade": 1,
+    "peso": 3,
+    "energia": 75
+  },
+  {
+    "nome": "Pingo",
+    "especie": "coelho",
+    "idade": 3,
+    "peso": 2.5,
+    "energia": 55
+  },
+  {
+    "nome": "Max",
+    "especie": "cachorro",
+    "idade": 7,
+    "peso": 30,
+    "energia": 88
+  },
+  {
+    "nome": "Lua",
+    "especie": "gato",
+    "idade": 9,
+    "peso": 6,
+    "energia": 40
+  },
+  {
+    "nome": "Toby",
+    "especie": "cachorro",
+    "idade": 2,
+    "peso": 12,
+    "energia": 95
+  },
+  {
+    "nome": "Kiko",
+    "especie": "papagaio",
+    "idade": 12,
+    "peso": 1,
+    "energia": 60
+  },
+  {
+    "nome": "Floquinho",
+    "especie": "hamster",
+    "idade": 1,
+    "peso": 0.2,
+    "energia": 45
+  },
+  {
+    "nome": "Spike",
+    "especie": "cachorro",
+    "idade": 6,
+    "peso": 28,
+    "energia": 82
+  }
+]

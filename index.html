@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Sistema de Animais de Estimação</title>
+</head>
+
+<body>
+    <header>
+        <h1>🐾 Pets & Companhia 🐾</h1>
+        <p class="subtitle">Conheça nossos adoráveis animais de estimação!</p>
+    </header>
+
+    <main id="conteudo"></main>
+
+    <button id="button" onclick="petsPorIdade()">📊 Ordenar por Idade</button>
+    <button id="button1" onclick="petsPorPeso()">📊 Ordenar por peso (crescente)</button>
+    <button id="button2" onclick="petsPorPesomenos()">📊 Ordenar por peso (decrescente)</button>
+    <button id="button3" onclick="ordenarPorNome()">📊 Ordenar por nome (ordem alfabética)</button>
+    <button id="button4" onclick="cachorrosEEnergia()">📊 Filtrar apenas cachorros e ordenar por energia (decrescente)</button>
+    <button id="button5" onclick="totalDeEnergia()">📊 Calcular o total de energia dos pets</button>
+    <button id="button6" onclick="mediaDeEnergia()">📊 Calcular a média de energia dos pets</button>
+    <button id="button7" onclick="nomePeso()">📊 Criar um objeto no formato Nome → Peso</button>
+    <button id="button8" onclick="listaNomeComLetraO()">📊 Listar os nomes que contêm a letra "o"</button>
+    <button id="button9" onclick="removerEspacoEstras()">📊 Remover espaços extras de um nome usando trim</button>
+    <button id="button10" onclick="mostrarOsTresPrimeirosCaractes()">📊 Mostrar os três primeiros caracteres de cada nome</button>
+    <button id="button11" onclick="nomesDosUsando()">📊 Comparar nomes usando localeCompare</button>
+    <button id="button12" onclick="popEPush()">📊 Adicionar e remover pets da lista (pop e push)</button>
+    <main id="conteudo2"></main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
